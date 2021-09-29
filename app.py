@@ -3,4 +3,4 @@ myapp = Flask(__name__)
 
 @myapp.route("/")
 def hello():
-    return "Hello Flask, on Azure App to segmentation"
+    return "Hello Flask, on Azure App to number 1"
